@@ -6,19 +6,19 @@
 Autor: Gerard Gómez Pagès
 Fecha: 09/05/2022
 
- 
+![Cultura Digital](https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2017/07/Word-Processor-has-been-around-a-long-time.jpg) 
 
 
 ## Plantejament
 
 Els qui treballem diàriament amb ordinadors estem molt avesats a utilitzar eines de programari que ens faciliti el desenvolupament del treball. Els projectes en què elaborem necessitem redactar i molt sovint compartir i treballar conjuntament amb un document. En aquest col·loquem arxius de diferents tipologies, des de text, imatges fins a vídeos o gràfics vectorials.
 
-![Cultura Digital](https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2017/07/Word-Processor-has-been-around-a-long-time.jpg)
 
-## Primer cas d'hibridació: Google Drive
+## Primer cas d'hibridació: Google Docs
 
 Durant molts anys per escriure documents hem estat utilitzant diferents objectes, des de la ploma i el paper, la màquina d'escriure i la seva remediació a l'ordinador personal amb programari com ***Microsoft Office o Openoffice.org***, fins a l'arribada d'internet, on sorgeixen diferents projectes amb una idea en comú. Aquesta evolució dels programaris tradicionals com a processadors de textos a la introducció d'internet va revolucionar la creació de noves maneres i funcionalitats per aquests programaris.
 
+![Google Docs](https://blog.ida.cl/wp-content/uploads/sites/5/2016/04/image02-3.png)
 
 
 **Google Docs** sorgeix de dos projectes separats, per una banda, **Writely** i per l'altra **Google Spreadsheets**. Writely era un processador de text individual en xarxa creat per la companyia ***Upstartle***, el qual va ser llançat l'agost de 2005. Les característiques originals incloïen un lloc per a l'edició de textos en col·laboració, a més de controls per al seu accés.
@@ -30,7 +30,7 @@ Estem parlant d'una eina col·laborativa per a l'edició cooperativa de document
 
 Aquest servei en línia és una evolució tecnològica tal com afirma **Manovich**, ***"utilitzen diferents tipus de dades de mitjans i tècniques necessàries per generar, modificar i visualitzar aquestes dades."*** Són, doncs, algoritmes i conjunts d'aquests que permeten dur a terme diferents accions concretes sobre aquestes dades. Per exemple, el Google docs, podem executar diferents accions com col·locar un text en negreta, posar-la en color, inserir una imatge i retallar-la, inserir una imatge a través de la càmera, adjuntar un arxiu amb un vincle, etc. Són accions que es generen de forma fàcil i simple, però que aquesta forma natural implica moltes tècniques i transcripcions d'algoritmes que se'ns tradueix a un llenguatge visual que l'usuari pot interactuar i identificar fàcilment. En aquest servei de Google Docs es fusionen diferents elements que comparteixen tècniques de programari i la interfície genera una nova experiència coherent, que és diferent dels elements per separat. Per tant, és un servei al núvol que combina i fusiona diferents mitjans.
 
-![Cultura Digital](https://3adb6297-a-62cb3a1a-s-sites.googlegroups.com/site/comercioisrael/e-comercio/google-docs/Google_Docs_Billboard.jpg)
+![Google Docs](https://3adb6297-a-62cb3a1a-s-sites.googlegroups.com/site/comercioisrael/e-comercio/google-docs/Google_Docs_Billboard.jpg)
 
 ## Segon cas d'hibridació: Canva
 
