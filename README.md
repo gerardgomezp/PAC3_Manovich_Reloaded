@@ -11,10 +11,9 @@ Fecha: 09/05/2022
 
 ## Plantejament
 
-![Cultura Digital](https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2017/07/Word-Processor-has-been-around-a-long-time.jpg)
-
 Els qui treballem diàriament amb ordinadors estem molt avesats a utilitzar eines de programari que ens faciliti el desenvolupament del treball. Els projectes en què elaborem necessitem redactar i molt sovint compartir i treballar conjuntament amb un document. En aquest col·loquem arxius de diferents tipologies, des de text, imatges fins a vídeos o gràfics vectorials.
 
+![Cultura Digital](https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2017/07/Word-Processor-has-been-around-a-long-time.jpg)
 
 ## Primer cas d'hibridació: Google Drive
 
